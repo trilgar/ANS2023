@@ -1,0 +1,13 @@
+http://economictimes.indiatimes.com/tech/software/rssfeeds/13357555.cms
+http://nypost.com/tech/feed
+http://www.smh.com.au/rssheadlines/technology-news/article/rss.xml
+http://zeenews.india.com/rss/science-technology-news.xml
+http://www.washingtontimes.com/rss/headlines/culture/technology/
+https://www.thehindu.com/sci-tech/technology/?service=rss
+https://www.economist.com/science-and-technology/rss.xml
+https://feeds.skynews.com/feeds/rss/technology.xml
+http://www.innertemplelibrary.com/category/secure-hospitals/feed/
+http://e-news.com.ua/export/news.xml
+http://fakty.ua/rss_feed/science
+https://www.anandtech.com/rss
+https://pcper.com/feed/

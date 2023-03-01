@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PC Perspective</title>
+	<atom:link href="https://pcper.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://pcper.com</link>
+	<description>A Leader in PC Hardware Reviews and News</description>
+	<lastBuildDate>Tue, 28 Feb 2023 20:02:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://pcper.com/wp-content/uploads/2019/03/cropped-8a2f-podcast163-mp3-image.png</url>
+	<title>PC Perspective</title>
+	<link>https://pcper.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>SSTC HammerHead E18, The SSD With The Most Bang For The Buck</title>
+		<link>https://pcper.com/2023/02/sstc-hammerhead-e18-the-ssd-with-the-most-bang-for-the-buck/</link>
+					<comments>https://pcper.com/2023/02/sstc-hammerhead-e18-the-ssd-with-the-most-bang-for-the-buck/#respond</comments>
+		
+		<dc:creator><![CDATA[Jeremy Hellstrom]]></dc:creator>
+		<pubDate>Tue, 28 Feb 2023 20:02:26 +0000</pubDate>
+				<category><![CDATA[Storage]]></category>
+		<category><![CDATA[HammerHead E18]]></category>
+		<category><![CDATA[NVMe 1.4]]></category>
+		<category><![CDATA[pcie 4.0]]></category>
+		<category><![CDATA[Phison E18]]></category>
+		<category><![CDATA[SSTC]]></category>
+		<guid isPermaLink="false">https://pcper.com/?p=276166</guid>
+
+					<description><![CDATA[
+<p>SSTC is a Vietnamese based computer retailer which is starting to show up on Amazon, and TweakTown had a chance to review the Hammerhead E18 NVMe 1.4 PCIe 4.0 SSD.   The controller…]]></description>
+		
+					<wfw:commentRss>https://pcper.com/2023/02/sstc-hammerhead-e18-the-ssd-with-the-most-bang-for-the-buck/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>There&#8217;s A New Nokia Phone, And It&#8217;s Eminently Repairable</title>
+		<link>https://pcper.com/2023/02/theres-a-new-nokia-phone-and-its-eminently-repairable/</link>
+					<comments>https://pcper.com/2023/02/theres-a-new-nokia-phone-and-its-eminently-repairable/#respond</comments>
+		
+		<dc:creator><![CDATA[Jeremy Hellstrom]]></dc:creator>
+		<pubDate>Tue, 28 Feb 2023 18:34:46 +0000</pubDate>
+				<category><![CDATA[General Tech]]></category>
+		<category><![CDATA[HMD Global]]></category>
+		<category><![CDATA[ifixit]]></category>
+		<category><![CDATA[Nokia G22]]></category>
+		<guid isPermaLink="false">https://pcper.com/?p=276161</guid>
+
+					<description><![CDATA[
+<p>Nokia never dies, it just changes ownership and it is HMD Global that currently has that honour.  They are launching three new phones and one of them, the Nokia G22, is built…]]></description>
+		
+					<wfw:commentRss>https://pcper.com/2023/02/theres-a-new-nokia-phone-and-its-eminently-repairable/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>AMD Ryzen 9 7950X3D, Gaming Greatness</title>
+		<link>https://pcper.com/2023/02/amd-ryzen-9-7950x3d-gaming-greatness/</link>
+					<comments>https://pcper.com/2023/02/amd-ryzen-9-7950x3d-gaming-greatness/#respond</comments>
+		
+		<dc:creator><![CDATA[Jeremy Hellstrom]]></dc:creator>
+		<pubDate>Mon, 27 Feb 2023 20:13:45 +0000</pubDate>
+				<category><![CDATA[Processors]]></category>
+		<category><![CDATA[AMD]]></category>
+		<category><![CDATA[Ryzen 9 7950X3D]]></category>
+		<category><![CDATA[Zen 4]]></category>
+		<guid isPermaLink="false">https://pcper.com/?p=276156</guid>
+
+					<description><![CDATA[
+<p>AMD have announced a new generation of chips with 3D V-Cache, and we are getting a peek at what the performance of the Ryzen 9 7950X3D.  <a href="https://www.thefpsreview.com/2023/02/27/amd-ryzen-9-7950x3d-gaming-performance-cpu-review/">The FPS Review chose to…]]></description>
+		
+					<wfw:commentRss>https://pcper.com/2023/02/amd-ryzen-9-7950x3d-gaming-greatness/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Linux 6.2 Kernel And Apple&#8217;s M-Series Processors</title>
+		<link>https://pcper.com/2023/02/the-linux-6-2-kernel-and-apples-m-series-processors/</link>
+					<comments>https://pcper.com/2023/02/the-linux-6-2-kernel-and-apples-m-series-processors/#respond</comments>
+		
+		<dc:creator><![CDATA[Jeremy Hellstrom]]></dc:creator>
+		<pubDate>Mon, 27 Feb 2023 19:13:42 +0000</pubDate>
+				<category><![CDATA[General Tech]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Linux 6.2]]></category>
+		<guid isPermaLink="false">https://pcper.com/?p=276151</guid>
+
+					<description><![CDATA[
+<p>There is good news for Linux fans looking to pick up a new Mac and trying it out.  The Asahi Linux team have been able to get the Linux 6.2 kernel to…]]></description>
+		
+					<wfw:commentRss>https://pcper.com/2023/02/the-linux-6-2-kernel-and-apples-m-series-processors/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Save on AM5 Motherboards and DDR5 with Latest AMD Ryzen 7000 Series Bundle</title>
+		<link>https://pcper.com/2023/02/save-on-am5-motherboards-and-ddr5-with-latest-amd-ryzen-7000-series-bundle/</link>
+					<comments>https://pcper.com/2023/02/save-on-am5-motherboards-and-ddr5-with-latest-amd-ryzen-7000-series-bundle/#respond</comments>
+		
+		<dc:creator><![CDATA[Sebastian Peak]]></dc:creator>
+		<pubDate>Sun, 26 Feb 2023 01:43:24 +0000</pubDate>
+				<category><![CDATA[Processors]]></category>
+		<guid isPermaLink="false">https://pcper.com/?p=276141</guid>
+
+					<description><![CDATA[
+<p>We are days away from the highly-anticipated launch of Ryzen 7000 X3D processors, but AMD is providing up to 125 more reasons to jump on the AM5 train with their latest bundle.…]]></description>
+		
+					<wfw:commentRss>https://pcper.com/2023/02/save-on-am5-motherboards-and-ddr5-with-latest-amd-ryzen-7000-series-bundle/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Watercool Your EPYC Server With The Dynatron L32 SP5</title>
+		<link>https://pcper.com/2023/02/watercool-your-epyc-server-with-the-dynatron-l32-sp5/</link>
+					<comments>https://pcper.com/2023/02/watercool-your-epyc-server-with-the-dynatron-l32-sp5/#respond</comments>
+		
+		<dc:creator><![CDATA[Jeremy Hellstrom]]></dc:creator>
+		<pubDate>Fri, 24 Feb 2023 21:52:18 +0000</pubDate>
+				<category><![CDATA[Cases and Cooling]]></category>
+		<category><![CDATA[Dynatron]]></category>
+		<category><![CDATA[EPYC]]></category>
+		<category><![CDATA[L32 SP5]]></category>
+		<guid isPermaLink="false">https://pcper.com/?p=276135</guid>
+
+					<description><![CDATA[
+<p>If you had suggested introducing an all in one watercooler to the server room just a few years ago, at best you would get a stern talking to and at worst you'd…]]></description>
+		
+					<wfw:commentRss>https://pcper.com/2023/02/watercool-your-epyc-server-with-the-dynatron-l32-sp5/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Breath Life Into An Old Laptop With Chrome OS Flex</title>
+		<link>https://pcper.com/2023/02/breath-life-into-an-old-laptop-with-chrome-os-flex/</link>
+					<comments>https://pcper.com/2023/02/breath-life-into-an-old-laptop-with-chrome-os-flex/#comments</comments>
+		
+		<dc:creator><![CDATA[Jeremy Hellstrom]]></dc:creator>
+		<pubDate>Fri, 24 Feb 2023 18:19:53 +0000</pubDate>
+				<category><![CDATA[General Tech]]></category>
+		<category><![CDATA[Chrome OS Flex]]></category>
+		<guid isPermaLink="false">https://pcper.com/?p=276129</guid>
+
+					<description><![CDATA[
+<p>There are ways to revive older laptops that are too painful to run under Windows, and you don't need to go full Linux unless you want to.  That older CPU and motherboard…]]></description>
+		
+					<wfw:commentRss>https://pcper.com/2023/02/breath-life-into-an-old-laptop-with-chrome-os-flex/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Play 60 Questions With AI With Microsoft Bing, ChrEdge, And Skype</title>
+		<link>https://pcper.com/2023/02/play-60-questions-with-ai-with-microsoft-bing-chredge-and-skype/</link>
+					<comments>https://pcper.com/2023/02/play-60-questions-with-ai-with-microsoft-bing-chredge-and-skype/#respond</comments>
+		
+		<dc:creator><![CDATA[Jeremy Hellstrom]]></dc:creator>
+		<pubDate>Thu, 23 Feb 2023 18:38:44 +0000</pubDate>
+				<category><![CDATA[General Tech]]></category>
+		<category><![CDATA[bing]]></category>
+		<category><![CDATA[edge]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Skype]]></category>
+		<guid isPermaLink="false">https://pcper.com/?p=276123</guid>
+
+					<description><![CDATA[
+<p>Microsoft is expanding the so called AI they added to Bing last week, regardless of how creative some of it's answers have proved to be.  One of the major changes for those…]]></description>
+		
+					<wfw:commentRss>https://pcper.com/2023/02/play-60-questions-with-ai-with-microsoft-bing-chredge-and-skype/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Is The Intel Arc A770 16GB Limited Edition The Full Metal Alchemist?</title>
+		<link>https://pcper.com/2023/02/is-the-intel-arc-a770-16gb-limited-edition-the-full-metal-alchemist/</link>
+					<comments>https://pcper.com/2023/02/is-the-intel-arc-a770-16gb-limited-edition-the-full-metal-alchemist/#comments</comments>
+		
+		<dc:creator><![CDATA[Jeremy Hellstrom]]></dc:creator>
+		<pubDate>Wed, 22 Feb 2023 20:02:04 +0000</pubDate>
+				<category><![CDATA[Graphics Cards]]></category>
+		<category><![CDATA[Alchemist]]></category>
+		<category><![CDATA[Intel]]></category>
+		<guid isPermaLink="false">https://pcper.com/?p=276116</guid>
+
+					<description><![CDATA[
+<p>If you are wondering what makes the Arc A770 16GB Limited Edition GPU a limited edition, it is because this is Intel's own design and someone already took Founders Edition.  The silicon…]]></description>
+		
+					<wfw:commentRss>https://pcper.com/2023/02/is-the-intel-arc-a770-16gb-limited-edition-the-full-metal-alchemist/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>No Ray Tracing At Launch?  Bless Your Atomic Heart</title>
+		<link>https://pcper.com/2023/02/no-ray-tracing-at-launch-bless-your-atomic-heart/</link>
+					<comments>https://pcper.com/2023/02/no-ray-tracing-at-launch-bless-your-atomic-heart/#respond</comments>
+		
+		<dc:creator><![CDATA[Jeremy Hellstrom]]></dc:creator>
+		<pubDate>Wed, 22 Feb 2023 18:51:59 +0000</pubDate>
+				<category><![CDATA[General Tech]]></category>
+		<category><![CDATA[Atomic Heart]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<guid isPermaLink="false">https://pcper.com/?p=276111</guid>
+
+					<description><![CDATA[
+<p>The screenshots of Atomic Heart are certainly pretty, but are missing something which would improve the look on NVIDIA machines and which was a major focus during the lead up to launch,…]]></description>
+		
+					<wfw:commentRss>https://pcper.com/2023/02/no-ray-tracing-at-launch-bless-your-atomic-heart/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Check Out Microsoft And Meta&#8217;s Picks Of The Week</title>
+		<link>https://pcper.com/2023/02/check-out-microsoft-and-metas-picks-of-the-week/</link>
+					<comments>https://pcper.com/2023/02/check-out-microsoft-and-metas-picks-of-the-week/#respond</comments>
+		
+		<dc:creator><![CDATA[Jeremy Hellstrom]]></dc:creator>
+		<pubDate>Wed, 22 Feb 2023 18:07:31 +0000</pubDate>
+				<category><![CDATA[General Tech]]></category>
+		<category><![CDATA[Crocs]]></category>
+		<category><![CDATA[cube]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Minecraft]]></category>
+		<guid isPermaLink="false">https://pcper.com/?p=276106</guid>
+
+					<description><![CDATA[
+<p>It's Wednesday, so how about a bit of the weird to start your day off <a href="https://www.theregister.com/2023/02/21/meta_cubicles_minecraft_crocs_innovation/">by way of Microsoft, Meta and The Register</a>.  The latter discovered that these companies are both…]]></description>
+		
+					<wfw:commentRss>https://pcper.com/2023/02/check-out-microsoft-and-metas-picks-of-the-week/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Bringing Xbox PC Games to GeForce Now</title>
+		<link>https://pcper.com/2023/02/microsoft-bringing-xbox-pc-games-to-geforce-now/</link>
+					<comments>https://pcper.com/2023/02/microsoft-bringing-xbox-pc-games-to-geforce-now/#respond</comments>
+		
+		<dc:creator><![CDATA[Sebastian Peak]]></dc:creator>
+		<pubDate>Wed, 22 Feb 2023 15:01:28 +0000</pubDate>
+				<category><![CDATA[General Tech]]></category>
+		<category><![CDATA[geforce now]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[xbox]]></category>
+		<guid isPermaLink="false">https://pcper.com/?p=276097</guid>
+
+					<description><![CDATA[
+<p>In a story from hipster lifestyle (and also tech) outlet <em>The Verge</em>, we now know that if it's an Xbox game that will play on PC, it's coming to NVIDIA's game streaming…]]></description>
+		
+					<wfw:commentRss>https://pcper.com/2023/02/microsoft-bringing-xbox-pc-games-to-geforce-now/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Corsair HS65 Wireless, Headphones For A Little Less</title>
+		<link>https://pcper.com/2023/02/corsair-hs65-wireless-headphones-for-a-little-less/</link>
+					<comments>https://pcper.com/2023/02/corsair-hs65-wireless-headphones-for-a-little-less/#respond</comments>
+		
+		<dc:creator><![CDATA[Jeremy Hellstrom]]></dc:creator>
+		<pubDate>Tue, 21 Feb 2023 23:57:04 +0000</pubDate>
+				<category><![CDATA[General Tech]]></category>
+		<category><![CDATA[Audio]]></category>
+		<category><![CDATA[Corsair]]></category>
+		<category><![CDATA[HS65 Wireless]]></category>
+		<category><![CDATA[wireless headset]]></category>
+		<guid isPermaLink="false">https://pcper.com/?p=276089</guid>
+
+					<description><![CDATA[
+<p>Corsair have extended their line of HS wireless headphones with the new HS65 Wireless, priced at about $120.  They offer a mix of features, some better than their predecessors and some not…]]></description>
+		
+					<wfw:commentRss>https://pcper.com/2023/02/corsair-hs65-wireless-headphones-for-a-little-less/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>A Solution To Chrome&#8217;s RAM Addiction?</title>
+		<link>https://pcper.com/2023/02/a-solution-to-chromes-ram-addiction/</link>
+					<comments>https://pcper.com/2023/02/a-solution-to-chromes-ram-addiction/#comments</comments>
+		
+		<dc:creator><![CDATA[Jeremy Hellstrom]]></dc:creator>
+		<pubDate>Tue, 21 Feb 2023 19:48:46 +0000</pubDate>
+				<category><![CDATA[General Tech]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[memory saver]]></category>
+		<guid isPermaLink="false">https://pcper.com/?p=276084</guid>
+
+					<description><![CDATA[
+<p>Google promised us Energy Saver and Memory Saver modes back in December and <a href="https://tech.slashdot.org/story/23/02/20/1747238/google-chromes-latest-version-includes-tools-to-address-its-memory-hog-problem">are finally making good on that promise in Chrome 110</a>.  It is being rolled out simultaneously to Windows,…]]></description>
+		
+					<wfw:commentRss>https://pcper.com/2023/02/a-solution-to-chromes-ram-addiction/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Podcast #711 &#8211; New RX 6000 Drivers, AI Shenanigans, The Very Affordable SP UD90 Gen4 SSD, Intel HEDT is back &#038; MORE</title>
+		<link>https://pcper.com/2023/02/podcast-711/</link>
+					<comments>https://pcper.com/2023/02/podcast-711/#respond</comments>
+		
+		<dc:creator><![CDATA[PCPer Staff]]></dc:creator>
+		<pubDate>Sun, 19 Feb 2023 03:10:09 +0000</pubDate>
+				<category><![CDATA[General Tech]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[ARC]]></category>
+		<category><![CDATA[geekbench]]></category>
+		<category><![CDATA[graphics driver]]></category>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[internet explorer]]></category>
+		<category><![CDATA[RX 6000]]></category>
+		<category><![CDATA[Ryzen 9 7950X3D]]></category>
+		<guid isPermaLink="false">https://pcper.com/?p=276068</guid>
+
+					<description><![CDATA[<p>In celebration, please visit a local 7-11.  You don't have to buy anything, driving through is fine.</p>
+<p>This podcast brought to you by 7-Eleven probably. Check out that Ryzen 7950X3D is available…]]></description>
+		
+					<wfw:commentRss>https://pcper.com/2023/02/podcast-711/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://media.transistor.fm/b8e02daa/da7ab9a6.mp3?download=true" length="6" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>ASRock B650E PG-ITX, Almost All The New Features In A Compact Package</title>
+		<link>https://pcper.com/2023/02/asrock-b650e-pg-itx-almost-all-the-new-features-in-a-compact-package/</link>
+					<comments>https://pcper.com/2023/02/asrock-b650e-pg-itx-almost-all-the-new-features-in-a-compact-package/#comments</comments>
+		
+		<dc:creator><![CDATA[Jeremy Hellstrom]]></dc:creator>
+		<pubDate>Fri, 17 Feb 2023 18:58:15 +0000</pubDate>
+				<category><![CDATA[Motherboards]]></category>
+		<category><![CDATA[AMD]]></category>
+		<category><![CDATA[ASrock]]></category>
+		<category><![CDATA[B650E PG-ITX]]></category>
+		<category><![CDATA[mini-itx]]></category>
+		<guid isPermaLink="false">https://pcper.com/?p=276063</guid>
+
+					<description><![CDATA[
+<p>Those that like tiny computers should take note of the ASRock B650E PG-ITX Wi-Fi, a mini-ITX AM5 board with just about everything you'd want, excepting USB4.  You will get DDR5 support up…]]></description>
+		
+					<wfw:commentRss>https://pcper.com/2023/02/asrock-b650e-pg-itx-almost-all-the-new-features-in-a-compact-package/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Geekbench 6, Benchmark Just About Anything</title>
+		<link>https://pcper.com/2023/02/geekbench-6-benchmark-just-about-anything/</link>
+					<comments>https://pcper.com/2023/02/geekbench-6-benchmark-just-about-anything/#comments</comments>
+		
+		<dc:creator><![CDATA[Jeremy Hellstrom]]></dc:creator>
+		<pubDate>Fri, 17 Feb 2023 18:03:20 +0000</pubDate>
+				<category><![CDATA[General Tech]]></category>
+		<category><![CDATA[Benchmark]]></category>
+		<category><![CDATA[Geekbench 6]]></category>
+		<guid isPermaLink="false">https://pcper.com/?p=276058</guid>
+
+					<description><![CDATA[
+<p>Free things are great, free things which are actually useful more so.  Geekbench is one such thing, a free benchmarking tool that lets you test the performance of just about any device…]]></description>
+		
+					<wfw:commentRss>https://pcper.com/2023/02/geekbench-6-benchmark-just-about-anything/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Intel Launches Xeon W-3400 and W-2400 Workstation Processors</title>
+		<link>https://pcper.com/2023/02/intel-launches-xeon-w-3400-and-w-2400-workstation-processors/</link>
+					<comments>https://pcper.com/2023/02/intel-launches-xeon-w-3400-and-w-2400-workstation-processors/#respond</comments>
+		
+		<dc:creator><![CDATA[Sebastian Peak]]></dc:creator>
+		<pubDate>Thu, 16 Feb 2023 15:44:47 +0000</pubDate>
+				<category><![CDATA[Processors]]></category>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[W-2400]]></category>
+		<category><![CDATA[W-3400]]></category>
+		<category><![CDATA[Workstation]]></category>
+		<category><![CDATA[Xeon]]></category>
+		<guid isPermaLink="false">https://pcper.com/?p=276041</guid>
+
+					<description><![CDATA[
+<p>Intel announced their new desktop workstation processors yesterday, with the Xeon W-3400 and Xeon W-2400 series parts.  The flagship is the Xeon w9-3495X, a 56-core, 112-thread monster that Intel calls their "most…]]></description>
+		
+					<wfw:commentRss>https://pcper.com/2023/02/intel-launches-xeon-w-3400-and-w-2400-workstation-processors/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pacific Drive Looks Weird And Interesting</title>
+		<link>https://pcper.com/2023/02/pacific-drive-looks-weird-and-interesting/</link>
+					<comments>https://pcper.com/2023/02/pacific-drive-looks-weird-and-interesting/#comments</comments>
+		
+		<dc:creator><![CDATA[Jeremy Hellstrom]]></dc:creator>
+		<pubDate>Wed, 15 Feb 2023 19:25:26 +0000</pubDate>
+				<category><![CDATA[General Tech]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Pacific Drive]]></category>
+		<guid isPermaLink="false">https://pcper.com/?p=276034</guid>
+
+					<description><![CDATA[
+<p>There haven't been many odd car games recently; racing sims aplenty but not so many descended from Car Wars.  Pacific Drive offers something for those of us who want driving to be…]]></description>
+		
+					<wfw:commentRss>https://pcper.com/2023/02/pacific-drive-looks-weird-and-interesting/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>AI Bing Goes Bong, Gets The Answers Wrong</title>
+		<link>https://pcper.com/2023/02/ai-bing-goes-bong-gets-the-answers-wrong/</link>
+					<comments>https://pcper.com/2023/02/ai-bing-goes-bong-gets-the-answers-wrong/#respond</comments>
+		
+		<dc:creator><![CDATA[Jeremy Hellstrom]]></dc:creator>
+		<pubDate>Wed, 15 Feb 2023 18:20:42 +0000</pubDate>
+				<category><![CDATA[General Tech]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[bing]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<guid isPermaLink="false">https://pcper.com/?p=276029</guid>
+
+					<description><![CDATA[
+<p>The release of AI Bing followed almost immediately by Google Bard have had various news outlets reporting on the amazing leap forward they represent.  Those stories mostly came from non-technical press sources,…]]></description>
+		
+					<wfw:commentRss>https://pcper.com/2023/02/ai-bing-goes-bong-gets-the-answers-wrong/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
