@@ -59,7 +59,14 @@ foreach ($filename in $filenames) {
     $filePath = "$outDir\$filename.xml"
     if (Test-Path $filePath) {
         $content = Get-Content $filePath
-        Add-Content -Path "$outDir\$outputFileName" -Value $content
+        $responseXml = [xml]$content
+        $items = $responseXml.rss.channel.item
+        foreach ($item in $items) {
+            $itemXml = $item.OuterXml
+            $itemXml = $itemXml.Replace("`r`n", "")
+            $itemXml = $itemXml.Trim()
+            Add-Content -Path "$outDir\$outputFileName" $itemXml
+        }
         Write-Output "Added content from $filePath to $outputFileName"
     }
     else {

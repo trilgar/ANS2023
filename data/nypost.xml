@@ -16,7 +16,7 @@
 	<atom:link href="https://nypost.com/tech/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nypost.com</link>
 	<description>Your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more.</description>
-	<lastBuildDate>Wed, 01 Mar 2023 11:30:26 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 01 Mar 2023 00:20:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -27,7 +27,7 @@
 			<pubDate>Wed, 01 Mar 2023 06:13:46 -0500</pubDate>
 
 								<link>https://nypost.com/2023/03/01/twitter-down-social-network-suffers-outage-as-users-unable-to-access-timelines/</link>
-				<dc:creator>jlynchnyp</dc:creator>
+				<dc:creator>Lee Brown</dc:creator>
 			
 			<guid isPermaLink="false">https://nypost.com/?post_type=article&#038;p=25952212</guid>
 																<description><![CDATA[Twitter outages were reported, as users are not able to refresh and access their timelines]]></description>
