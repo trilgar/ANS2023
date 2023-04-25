@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: spring-vault-config-example
+  cloud:
+    vault:
+      token: hvs.HCUn8oYWaCQV7DJ50tkPNDfa
+      scheme: http
+      kv:
+        enabled: true
+        backend: kv-default

@@ -1,8 +1,10 @@
+import codecs
 import re
 import datetime
 import sys
 
-f = open("D:/desktop/ASN/labs/data/anandtech.xml", "r")
+file_name = "zeenews"
+f = codecs.open("D:/desktop/ASN/labs/data/{}.xml".format(file_name), "r", "utf-8")
 t = f.read()
 f.close()
 
@@ -34,15 +36,16 @@ link = re.findall('<link>(.+?)<\/link>', t)
 now = datetime.datetime.now()
 tim = now.strftime("%Y-%m-%dT%H:%M:00Z")
 
-with open('anandtech.json', 'w') as f:
+with codecs.open('{}.json'.format(file_name), 'w', 'utf-8') as f:
     sys.stdout = f
     # Виведення результатів
-    for i in range(1, len(title) - 1):
+    print('[')
+    for i in range(1, len(title) - 2):
         print("{\n\"title\":\"" + title[i] + "\",")
 
         # Специфічна обробка тексту
         text[i] = re.sub('[\s\-]*$', '', text[i])
-        text[i] = re.sub('"', '\"', text[i])
+        text[i] = re.sub('"', '\\"', text[i])
         text[i] = re.sub('&', ' & amp;', text[i])
 
         # Подальша виведення результатів
@@ -56,3 +59,5 @@ with open('anandtech.json', 'w') as f:
 
         if i < len(title) - 2:
             print(",")
+
+    print(']')
