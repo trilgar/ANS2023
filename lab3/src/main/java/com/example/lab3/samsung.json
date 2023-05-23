@@ -1,0 +1,227 @@
+{
+  "took" : 39,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 16,
+      "relation" : "eq"
+    },
+    "max_score" : 6.6750183,
+    "hits" : [
+      {
+        "_index" : "items",
+        "_type" : "_doc",
+        "_id" : "gD3at4cBhyFE7lBpL3oM",
+        "_score" : 6.6750183,
+        "_source" : {
+          "title" : "<![CDATA[Samsung Galaxy S23 Ultra Review: Prodigious]]>",
+          "textBody" : "<![CDATA[The new logo comprises five different shapes forming the word NOKIA]]>",
+          "source" : " | The Hindu",
+          "PubDate" : "2023-04-25T12:47:00Z",
+          "URL" : " <![CDATA[https://www.thehindu.com/sci-tech/technology/samsung-galaxy-s23-ultra-review-prodigious/article66559013.ece]]> "
+        }
+      },
+      {
+        "_index" : "items",
+        "_type" : "_doc",
+        "_id" : "JD3rt4cBhyFE7lBps3xj",
+        "_score" : 6.6750183,
+        "_source" : {
+          "title" : "<![CDATA[Samsung Galaxy S23 Ultra Review: Prodigious]]>",
+          "textBody" : "<![CDATA[The new logo comprises five different shapes forming the word NOKIA]]>",
+          "source" : " | The Hindu",
+          "PubDate" : "2007-05-18T05:23:35Z",
+          "URL" : " <![CDATA[https://www.thehindu.com/sci-tech/technology/samsung-galaxy-s23-ultra-review-prodigious/article66559013.ece]]> "
+        }
+      },
+      {
+        "_index" : "items",
+        "_type" : "_doc",
+        "_id" : "yD30t4cBhyFE7lBpnn0n",
+        "_score" : 6.6750183,
+        "_source" : {
+          "title" : "<![CDATA[Samsung Galaxy S23 Ultra Review: Prodigious]]>",
+          "textBody" : "<![CDATA[The new logo comprises five different shapes forming the word NOKIA]]>",
+          "source" : " | The Hindu",
+          "PubDate" : "2010-04-29T16:36:55Z",
+          "URL" : " <![CDATA[https://www.thehindu.com/sci-tech/technology/samsung-galaxy-s23-ultra-review-prodigious/article66559013.ece]]> "
+        }
+      },
+      {
+        "_index" : "items",
+        "_type" : "_doc",
+        "_id" : "bD32t4cBhyFE7lBpbX_e",
+        "_score" : 6.6750183,
+        "_source" : {
+          "title" : "<![CDATA[Samsung Galaxy S23 Ultra Review: Prodigious]]>",
+          "textBody" : "<![CDATA[The new logo comprises five different shapes forming the word NOKIA]]>",
+          "source" : " | The Hindu",
+          "PubDate" : "2001-09-06T14:05:53Z",
+          "URL" : " <![CDATA[https://www.thehindu.com/sci-tech/technology/samsung-galaxy-s23-ultra-review-prodigious/article66559013.ece]]> "
+        }
+      },
+      {
+        "_index" : "items",
+        "_type" : "_doc",
+        "_id" : "sD3at4cBhyFE7lBpL3oM",
+        "_score" : 6.5616956,
+        "_source" : {
+          "title" : "<![CDATA[Lava launches entry level smartphone Yuva 2 Pro with pure Android 12]]>",
+          "textBody" : "<![CDATA[Lenovo (29%), Apple (23%), and Samsung (22%), captured the top three spots in the tablet market in 2022]]>",
+          "source" : " | The Hindu",
+          "PubDate" : "2023-04-25T12:47:00Z",
+          "URL" : " <![CDATA[https://www.thehindu.com/sci-tech/technology/lava-launches-entry-level-smartphone-yuva-2-pro-with-pure-android-12/article66535326.ece]]> "
+        }
+      },
+      {
+        "_index" : "items",
+        "_type" : "_doc",
+        "_id" : "VD3rt4cBhyFE7lBps3xj",
+        "_score" : 6.5616956,
+        "_source" : {
+          "title" : "<![CDATA[Lava launches entry level smartphone Yuva 2 Pro with pure Android 12]]>",
+          "textBody" : "<![CDATA[Lenovo (29%), Apple (23%), and Samsung (22%), captured the top three spots in the tablet market in 2022]]>",
+          "source" : " | The Hindu",
+          "PubDate" : "2007-09-24T18:35:12Z",
+          "URL" : " <![CDATA[https://www.thehindu.com/sci-tech/technology/lava-launches-entry-level-smartphone-yuva-2-pro-with-pure-android-12/article66535326.ece]]> "
+        }
+      },
+      {
+        "_index" : "items",
+        "_type" : "_doc",
+        "_id" : "-D30t4cBhyFE7lBpnn0n",
+        "_score" : 6.5616956,
+        "_source" : {
+          "title" : "<![CDATA[Lava launches entry level smartphone Yuva 2 Pro with pure Android 12]]>",
+          "textBody" : "<![CDATA[Lenovo (29%), Apple (23%), and Samsung (22%), captured the top three spots in the tablet market in 2022]]>",
+          "source" : " | The Hindu",
+          "PubDate" : "2015-09-03T06:13:20Z",
+          "URL" : " <![CDATA[https://www.thehindu.com/sci-tech/technology/lava-launches-entry-level-smartphone-yuva-2-pro-with-pure-android-12/article66535326.ece]]> "
+        }
+      },
+      {
+        "_index" : "items",
+        "_type" : "_doc",
+        "_id" : "nD32t4cBhyFE7lBpbX_e",
+        "_score" : 6.5616956,
+        "_source" : {
+          "title" : "<![CDATA[Lava launches entry level smartphone Yuva 2 Pro with pure Android 12]]>",
+          "textBody" : "<![CDATA[Lenovo (29%), Apple (23%), and Samsung (22%), captured the top three spots in the tablet market in 2022]]>",
+          "source" : " | The Hindu",
+          "PubDate" : "2006-08-08T07:46:06Z",
+          "URL" : " <![CDATA[https://www.thehindu.com/sci-tech/technology/lava-launches-entry-level-smartphone-yuva-2-pro-with-pure-android-12/article66535326.ece]]> "
+        }
+      },
+      {
+        "_index" : "items",
+        "_type" : "_doc",
+        "_id" : "fz3at4cBhyFE7lBpL3oM",
+        "_score" : 5.746695,
+        "_source" : {
+          "title" : "<![CDATA[OnePlus 11 Concept with Active CryoFlux unveiled at Mobile World Congress 2023]]>",
+          "textBody" : "<![CDATA[In our review, the Samsung  Galaxy S23 Ultra surpassed its rivals and predecessor in gaming, computing and the S-Pen functions along with the camera, which is its main focus]]>",
+          "source" : " | The Hindu",
+          "PubDate" : "2023-04-25T12:47:00Z",
+          "URL" : " <![CDATA[https://www.thehindu.com/sci-tech/technology/gadgets/oneplus-11-concept-active-cryoflux-unveiled-mobile-world-congress-mwc-2023/article66559247.ece]]> "
+        }
+      },
+      {
+        "_index" : "items",
+        "_type" : "_doc",
+        "_id" : "Iz3rt4cBhyFE7lBps3xj",
+        "_score" : 5.746695,
+        "_source" : {
+          "title" : "<![CDATA[OnePlus 11 Concept with Active CryoFlux unveiled at Mobile World Congress 2023]]>",
+          "textBody" : "<![CDATA[In our review, the Samsung  Galaxy S23 Ultra surpassed its rivals and predecessor in gaming, computing and the S-Pen functions along with the camera, which is its main focus]]>",
+          "source" : " | The Hindu",
+          "PubDate" : "2009-01-25T13:10:25Z",
+          "URL" : " <![CDATA[https://www.thehindu.com/sci-tech/technology/gadgets/oneplus-11-concept-active-cryoflux-unveiled-mobile-world-congress-mwc-2023/article66559247.ece]]> "
+        }
+      },
+      {
+        "_index" : "items",
+        "_type" : "_doc",
+        "_id" : "xz30t4cBhyFE7lBpnn0n",
+        "_score" : 5.746695,
+        "_source" : {
+          "title" : "<![CDATA[OnePlus 11 Concept with Active CryoFlux unveiled at Mobile World Congress 2023]]>",
+          "textBody" : "<![CDATA[In our review, the Samsung  Galaxy S23 Ultra surpassed its rivals and predecessor in gaming, computing and the S-Pen functions along with the camera, which is its main focus]]>",
+          "source" : " | The Hindu",
+          "PubDate" : "2011-09-08T14:14:51Z",
+          "URL" : " <![CDATA[https://www.thehindu.com/sci-tech/technology/gadgets/oneplus-11-concept-active-cryoflux-unveiled-mobile-world-congress-mwc-2023/article66559247.ece]]> "
+        }
+      },
+      {
+        "_index" : "items",
+        "_type" : "_doc",
+        "_id" : "az32t4cBhyFE7lBpbX_e",
+        "_score" : 5.746695,
+        "_source" : {
+          "title" : "<![CDATA[OnePlus 11 Concept with Active CryoFlux unveiled at Mobile World Congress 2023]]>",
+          "textBody" : "<![CDATA[In our review, the Samsung  Galaxy S23 Ultra surpassed its rivals and predecessor in gaming, computing and the S-Pen functions along with the camera, which is its main focus]]>",
+          "source" : " | The Hindu",
+          "PubDate" : "2022-06-25T19:05:58Z",
+          "URL" : " <![CDATA[https://www.thehindu.com/sci-tech/technology/gadgets/oneplus-11-concept-active-cryoflux-unveiled-mobile-world-congress-mwc-2023/article66559247.ece]]> "
+        }
+      },
+      {
+        "_index" : "items",
+        "_type" : "_doc",
+        "_id" : "EwVNcYcB0noZ5o786J3R",
+        "_score" : 5.2635756,
+        "_source" : {
+          "title" : "Samsung Portable SSD T7 Shield 4TB Review: IP65 PSSD Gets a Capacity Upgrade",
+          "textBody" : "<![CDATA[ <p>Low-power processors have traditionally been geared towards notebooks and other portable platforms. However, the continued popularity of ultra-compact form-factor desktop systems has resulted in UCFF PCs also serving as lead vehicles for the latest mobile processors. Such is the case with Intel & amp;#39;s Raptor Lake-P - the processor SKUs were announced earlier this month at the 2023 CES, and end-products using the processor were slated to appear in a few weeks. Intel is officially allowing its partners to start selling their products into the channel today, and also allowing third-party evaluation results of products based on Raptor Lake-P to be published.</p>  <p>ASRock Industrial announced their Raptor Lake-P-based NUC clones as soon as Intel made the parts public. With the new platform, the company decided to trifurcate their offerings - a slim version (sans 2.5 & amp;quot; drive support) with DDR4 SODIMM slots in the NUCS BOX-13x0P/D4, a regular height version with 2.5 & amp;quot; drive support in the NUC BOX-13x0P/D4, and a slightly tweaked version of the latter with DDR5 SODIMM slots in the NUC BOX-13x0P/D5. The NUCS BOX-1360P is the company & amp;#39;s flagship in the first category, and the relative maturity of DDR4-based platforms has allowed them to start pushing the product into the channel early.</p>  <p>ASRock Industrial sampled us with a NUCS BOX-1360P/D4 from their first production run. We expected a run of the mill upgrade with improvements in performance and power efficiency. In the course of the review process, we found that the system allowed control over a new / key Raptor Lake-P feature that Intel hadn & amp;#39;t even bothered to bring out during their CES announcement - in-band ECC. Read on for a comprehensive look at Raptor Lake-P & amp;#39;s feature set for desktop platforms with detailed performance and power efficiency analysis.</p> ]]>",
+          "source" : "AnandTech",
+          "PubDate" : "2023-03-11T12:15:00Z",
+          "URL" : " https://www.anandtech.com/show/18734/samsung-portable-ssd-t7-shield-4tb-review-ip65-pssd-gets-a-capacity-upgrade "
+        }
+      },
+      {
+        "_index" : "items",
+        "_type" : "_doc",
+        "_id" : "EgVNcYcB0noZ5o786J3R",
+        "_score" : 4.1420307,
+        "_source" : {
+          "title" : "Western Digital Unveils Dual Actuator Ultrastar DC HS760 20TB HDD",
+          "textBody" : "<![CDATA[ <p>Samsung has been enjoying market success with their lineup of portable SSDs, starting with the T1 back in 2015. The company has been regularly updating their PSSD lineup with the evolution of different high-speed interfaces as well as NAND flash technology.</p>  <p>In early 2022, the company launched the Portable SSD T7 Shield, a follow-up to the Portable SSD T7 (Touch) introduced in early 2020. Introduced in models with capacities up to 2TB, the ruggedness / IP65 rating of the T7 Shield was advertised as a selling point over the regular Portable SSD T7 and T7 Touch. The company launched a 4TB version in this lineup in mid-January for the EU market. Samsung is officially bringing over the new capacity SKU to the North American market today. Read on for a comprehensive look at the performance and value proposition of the Portable SSD T7 Shield 4TB.</p> ]]>",
+          "source" : "AnandTech",
+          "PubDate" : "2023-03-11T12:15:00Z",
+          "URL" : " https://www.anandtech.com/show/18735/western-digital-unveils-dual-actuator-ultrastar-dc-hs760-20tb-hdd "
+        }
+      },
+      {
+        "_index" : "items",
+        "_type" : "_doc",
+        "_id" : "HQVNcYcB0noZ5o786J3R",
+        "_score" : 1.3713884,
+        "_source" : {
+          "title" : "Intel Unveils Core i9-13900KS: Raptor Lake Spreads Its Wings to 6.0 GHz",
+          "textBody" : """<![CDATA[ <p align="center"><a href="https: //www.anandtech.com/show/18725/micron-launches-9400-nvme-series-u3-ssds-for-data-center-workloads"><img src="https://images.anandtech.com/doci/18725/micron-9400-carousel_575px.jpg" alt="" /></a></p><p><p>Micron is taking the wraps off their latest data center SSD offering today. The 9400 NVMe Series builds upon Micron & amp;#39;s success with their third-generation 9300 series <a href="https://investors.micron.com/news-releases/news-release-details/micron-introduces-new-series-high-performance-nvme-ssds-cloud">introduced</a> back in Q2 2019. The 9300 series had adopted the U.2 form-factor with a PCIe 3.0 x4 interface, and utilized their 64L 3D TLC NAND. With a maximum capacity of 15.36 TB, the drive matched the highest-capacity HDDs on the storage amount front at that time (obviously with much higher performance numbers). In the past couple of years, the data center has moved towards PCIe 4.0 and U.3 in a bid to keep up with performance requirements and unify NVMe, SAS, and SATA support. Keeping these in mind, Micron is releasing the 9400 NVMe series of U.3 SSDs with a PCIe 4.0 x4 interface using their now-mature 176L 3D TLC NAND. Increased capacity per die is also now enabling Micron to present 2.5 & amp;quot; U.3 drives with capacities up to 30.72 TB, effectively doubling capacity per rack over the previous generation.</p>  <p>Similar to the 9300 NVMe series, the 9400 NVMe series is also optimized for data-intensive workloads and comes in two versions - the 9400 PRO and 9400 MAX. The Micron 9400 PRO is optimized for read-intensive workloads (1 DWPD), while the Micron 9400 MAX is meant for mixed use (3 DWPD). The maximum capacity points are 30.72 TB and 25.60 TB respectively. The specifications of the two drive families are summarized in the table below.</p>  <table border="1" cellpadding="1" cellspacing="1"> <tbody> <tr class="tgrey"> <td align="center" colspan="4" style="vertical-align: middle;">Micron 9400 NVMe Enterprise SSDs</td> </tr> <tr align="center" class="tlblue"> <td colspan="2" style="vertical-align: middle;"> & amp;nbsp;</td> <td rowspan="1" style="vertical-align: middle;">9400 PRO</td> <td rowspan="1" style="vertical-align: middle;">9400 MAX</td> </tr> <tr> <td class="tlgrey" colspan="2" style="vertical-align: middle;">Form Factor</td> <td align="center" colspan="2" style="vertical-align: middle;">U.3 2.5 & amp;quot; 15mm</td> </tr> <tr> <td class="tlgrey" colspan="2" style="vertical-align: middle;">Interface</td> <td align="center" colspan="2" style="vertical-align: middle;">PCIe 4.0 NVMe 1.4</td> </tr> <tr> <td class="tlgrey" colspan="2" style="vertical-align: middle;">Capacities</td> <td align="center" rowspan="1" style="vertical-align: middle;">7.68TB<br /> 15.36TB<br /> 30.72</td> <td align="center" rowspan="1" style="vertical-align: middle;">6.4TB<br /> 12.8TB<br /> 25.6TB</td> </tr> <tr> <td class="tlgrey" colspan="2" style="vertical-align: middle;">NAND</td> <td align="center" colspan="2" rowspan="1" style="vertical-align: middle;">Micron 176L 3D TLC</td> </tr> <tr> <td class="tlgrey" colspan="2" style="vertical-align: middle;">Sequential Read</td> <td align="center" colspan="2" rowspan="1" style="vertical-align: middle;">7000 MBps</td> </tr> <tr> <td class="tlgrey" colspan="2" style="vertical-align: middle;">Sequential Write</td> <td align="center" colspan="2" rowspan="1" style="vertical-align: middle;">7000 MBps</td> </tr> <tr> <td class="tlgrey" colspan="2" style="vertical-align: middle;">Random Read (4 KB)</td> <td align="center" rowspan="1" style="vertical-align: middle;">1.6M IOPS (7.68TB and 15.36TB)<br /> 1.5M IOPS (30.72TB)</td> <td align="center" rowspan="1" style="vertical-align: middle;">1.6M IOPS (6.4TB and 12.8TB)<br /> 1.5M IOPS (25.6TB)</td> </tr> <tr> <td class="tlgrey" colspan="2" style="vertical-align: middle;">Random Write (4 KB)</td> <td align="center" rowspan="1" style="vertical-align: middle;">300K IOPS</td> <td align="center" rowspan="1" style="vertical-align: middle;">600K IOPS (6.4TB and 12.8TB)<br /> 550K IOPS (25.6TB)</td> </tr> <tr> <td class="tlgrey" colspan="1" rowspan="2" style="vertical-align: middle;">Power</td> <td class="tlgrey" style="vertical-align: middle;">Operating</td> <td align="center" colspan="1" rowspan="1" style="vertical-align: middle;">14-21 W (7.68TB)<br /> 16-25W (15.36TB)<br /> 17-25W (30.72TB)</td> <td align="center" colspan="1" rowspan="1" style="vertical-align: middle;">14-21 W (6.40TB)<br /> 16-24W (12.8TB)<br /> 17-25W (25.6TB)</td> </tr> <tr> <td class="tlgrey" style="vertical-align: middle;">Idle</td> <td align="center" colspan="1" rowspan="1" style="vertical-align: middle;">? W</td> <td align="center" colspan="1" rowspan="1" style="vertical-align: middle;">? W</td> </tr> <tr> <td class="tlgrey" colspan="2" style="vertical-align: middle;">Write Endurance</td> <td align="center" rowspan="1" style="vertical-align: middle;">1 DWPD</td> <td align="center" rowspan="1" style="vertical-align: middle;">3 DWPD</td> </tr> <tr> <td class="tlgrey" colspan="2" style="vertical-align: middle;">Warranty</td> <td align="center" colspan="4" rowspan="1" style="vertical-align: middle;">5 years</td> </tr> </tbody> </table>  <p>The 9400 NVMe SSD series is already in volume production for AI / ML and other HPC workloads. The move to a faster interface, as well as higher-performance NAND enables a 77% improvement in random IOPS per watt over the previous generation. Micron is also claiming better all round performance across a variety of workloads compared to enterprise SSDs from competitors.</p>  <p>The Micron 9400 PRO goes against the Solidigm D7-5520, Samsung PM1733, and the Kioxia CM6-R. The Solidigm D7-5520 is handicapped by lower capacity points (due to its use of 144L TLC), resulting in lower performance against the 9400 PRO in all but the sequential reads numbers. The Samsung PM1733 also tops out at 15.36TB with performance numbers similar to that of the Solidigm model. The Kioxia CM6-R is the only other U.3 SSD with capacities up to 30.72TB. However, its performance numbers across all corners lags well behind the 9400 PRO & amp;#39;s.</p>  <p>The Micron 9400 MAX has competition from the Solidigm D7-P5620, Samsung PM1735, and the Kioxia CM6-V. Except for sequential reads, the Solidigm D7-P5620 lags the 9400 MAX in performance as well as capacity points. The PM1735 is only available in an HHHL AIC form-factor and uses PCIe 4.0 x8 interface. So, despite its 8 GBps sequential read performance, it can & amp;#39;t be deployed in a manner similar to that of the 9400 MAX. The Kioxia CM6-V tops out at 12.8TB and has lower performance numbers compared to the 9400 MAX.</p>  <p>Despite not being the first to launch 32TB-class SSDs into the data center market, Micron has ensured that their eventual offering provides top-tier performance across a variety of workloads compared to the competition. We hope to present some hands-on performance numbers for the SSD in the coming weeks.</p> </p>]]>""",
+          "source" : "AnandTech",
+          "PubDate" : "2023-03-11T12:15:00Z",
+          "URL" : " https://www.anandtech.com/show/18726/intel-unveils-core-i9-13900ks-raptor-lake-spreads-its-wings-to-6-0-ghz "
+        }
+      },
+      {
+        "_index" : "items",
+        "_type" : "_doc",
+        "_id" : "HwVNcYcB0noZ5o786J3R",
+        "_score" : 0.3707304,
+        "_source" : {
+          "title" : "The AMD Ryzen 9 7900, Ryzen 7 7700, and Ryzen 5 7600 Review: Zen 4 Efficiency at 65 Watts",
+          "textBody" : """<![CDATA[ <p align="center"><a href="https: //www.anandtech.com/show/18724/ces-2023-qnap-brings-hybrid-processors-and-e1s-ssd-support-to-the-nas-market"><img src="https://images.anandtech.com/doci/18724/carousel_575px.jpg" alt="" /></a></p><p><p>Over the last few years, the developments in the commercial off-the-shelf (COTS) network-attached storage (NAS) market have mostly been on the software front - bringing in more business-oriented value additions and better support for containers and virtual machines. We have had hardware updates in terms of processor choices and inclusion of M.2 SSD slots (primarily for SSD caching), but they have not been revolutionary changes.</p>  <p>At CES 2023, QNAP revealed plans for two different NAS units - the all-flash TBS-574X (based on the Intel Alder Lake-P platform), and the ML-focused TS-AI642 (based on the Rockchip RK3588 app processor). While QNAP only provided a teaser of the capabilities, there are a couple of points worth talking about to get an idea of where the COTS NAS market is headed towards in the near future.</p>  <h3>Hybrid Processors</h3>  <p>Network-Attached storage units have typically been based on either server platforms in the SMB / SME space or single-board computer (SBC) platforms in the home consumer / SOHO space. Traditionally, both platforms have eschewed big.LITTLE / hybrid processors for a variety of reasons. In the x86 space, we saw hybrid processors entering the mainstream market recently with Intel & amp;#39;s Alder Lake family. In the ARM world, big.LITTLE has been around for a relatively longer time. However, server workloads are typically unsuitable for that type of architecture. Without a credible use-case for such processors, it is also unlikely that servers will go that route. However, SBCs are a different case, and we have seen a number of application processors adopting the big.LITTLE strategy getting used in that market segment.</p>  <p>Both the all-flash TBS-574X and the AI NAS TS-AI642 are based on hybrid processors. The TBS-574X uses the <a href="https://www.intel.com/content/www/us/en/products/sku/226257/intel-core-i31220p-processor-12m-cache-up-to-4-40-ghz/specifications.html">Intel Core i3-1220P</a> (Alder Lake-P) in a 2P + 8E configuration. The TS-AI642 is based on the Rockchip RK3588 [ <a href="https://www.rock-chips.com/uploads/pdf/2022.8.26/192/RK3588%20Brief%20Datasheet.pdf">PDF</a> ], with 4x Cortex-A76 and 4x Cortex-A55 fabricated in Samsung & amp;#39;s 8LPP process.</p>  <p>QNAP is no stranger to marketing Atom-based NAS units with 2.5 GbE support - their recent <a href="https://www.qnap.com/en-us/product/compare?products=ts-264%2Cts-464%2Cts-664 & amp;amp;ref=product_overview">Jasper Lake-based tower NAS line-up</a> has proved extremely popular for SOHO / SMB use-cases. The Gracemont cores in the Core i3-1220P are going to be a step-up in performance, and the addition of two performance cores can easily help with user experience related to features more amenable for use in their Core-based units.</p>  <p>NAS units have become powerful enough to move above and beyond their basic file serving / backup target functionality. The QTS applications curated by QNAP help in providing well-integrated value additions. Some of the most popular ones enable container support as well as the ability to run virtual machines. As the range of workloads run on the NAS simultaneously start to vary, hybrid processors can pitch in to improve performance while maintaining power efficiency.</p>  <p>On the AI NAS front, the Rockchip RK3588 has processor cores powerful enough for a multi-bay NAS. However, QNAP is putting more focus on the neural network accelerator blocks (the SoC has 6 TOPS of NN inference performance), allowing the NAS to be marketed to heavy users of their surveillance and  & amp;#39;AI & amp;#39; apps such as <a href="https://www.qnap.com/go/solution/qvr-face/">QVR Face</a> (for face recognition in surveillance videos), <a href="https://www.qnap.com/go/software/qvr-smart-search">QVR Smart Search</a> (for event searching in surveillance videos), and <a href="https://www.qnap.com/go/software/qumagie">QuMagie</a> (for easily indexed photo albums with  & amp;#39;AI & amp;#39; functionality).</p>  <h3>E1.S Hot-Swappable SSDs</h3>  <p>QNAP & amp;#39;s first NASbook - an all-flash NAS using M.2 SSDs - was introduced into the market last year. The <a href="https://www.qnap.com/en-us/product/tbs-464">TBS-464</a> remains a unique product in the market, but goes against the NAS concept of hot-swappable drives.</p>  <p align="center"><a href="https://www.anandtech.com/show/18724/ces-2023-qnap-brings-hybrid-processors-and-e1s-ssd-support-to-the-nas-market"><img alt="" src="https://images.anandtech.com/doci/18724/tbs-464_575px.jpg" /></a><br /> <i>QNAP & amp;#39;s First-Generation NASbook - the TBS-464</i></p>  <p>At the time of its introduction, there was no industry standard for hot-swappable NVMe flash drives suitable for the NASbook & amp;#39;s form-factor. U.2 and U.3 drive slots with hot-swapping capabilities did exist in rackmount units meant for enterprises and datacenters. So, QNAP & amp;#39;s NASbook was launched without hot-swapping support. Meanwhile, the industry was consolidating towards E1.S and E1.L as <a href="https://www.snia.org/forums/cmsi/knowledge/formfactors">standard form-factors</a> for hot-swappable NVMe storage.</p>  <p align="center"><a href="https://www.anandtech.com/show/18724/ces-2023-qnap-brings-hybrid-processors-and-e1s-ssd-support-to-the-nas-market"><img alt="" src="https://images.anandtech.com/doci/18724/e1s-mod_575px.png" /></a><br /> <i>(L to R) E1.S 5.9mm (courtesy of SMART Modular Systems); E1.S Symmetric Enclosure (courtesy of Intel); E1.S (courtesy of KIOXIA)</i></p>  <p>QNAP & amp;#39;s 2023 NASbook - the TBS-574X - will be the first QNAP NAS to support E1.S hot-swappable SSDs (up to 15mm in thickness). In order to increase drive compatibility, QNAP will also be bundling M.2 adapters attached to each drive bay. This will allow end-users to use M.2 SSDs in the NASbook while market availability of E1.S SSDs expands.</p>  <h3>Specifications Summary</h3>  <p>The TBS-574X uses the Intel Core i3-1220P (2P + 8E - 10C/12T) and includes 16GB of DDR4 RAM. Memory expansion support is not clear as yet (It is likely that these are DDR4 SO-DIMMs). There are five drive bays, and the NAS seems to be running QTS based on QNAP & amp;#39;s model naming). The NASbook also sports 2.5 GbE and 10 GbE ports, two USB4 ports (likely Thunderbolt 4 sans certification, as QNAP claims 40 Gbps support, and ADL-P supports it natively), and 4K HDMI output. The NASbook also supports video transcoding with the integrated GPU in the Core i3-1220P. QNAP is primarily targeting collaborative video editing use-cases with the TBS-574X.</p>  <p>The TS-AI642 uses the RockChip RK3588 (4x CA-76 + 4x CA-55) app processor. The RAM specifications were not provided - SoC specs indicate LPDDR4, but we have reached out to QNAP for the exact amount . There are six drive bays. This is again interesting, since the SoC natively offers only up to 3 SATA ports. So, QNAP is either using a port multiplier or a separate SATA controller connected to the PCIe lanes for this purpose. The SoC & amp;#39;s native network support is restricted to dual GbE ports, but QNAP is including 2.5 GbE as well as a PCIe Gen 3 slot for 10 GbE expansion. These are also bound to take up the limited number of PCIe lanes in the processor (which is 4x PCIe 3.0, configurable as 1 x4, or 2 x2, or 4 x1). Overall, the hardware is quite interesting in terms of how QNAP will be able to manage performance expectations with the SoC & amp;#39;s capabilities. With a focus on surveillance deployments and cloud storage integration, the performance may be good enough even with port multipliers.</p>  <h3>Concluding Remarks</h3>  <p>Overall, QNAP & amp;#39;s teaser of their two upcoming desktop NAS products has provided us with insights into where the NAS market for SOHOs / SMBs is headed in the near future. QNAP has never shied away from exploring new hardware options, unlike Synology, QSAN, Terramaster, and the like. While we are very bullish on E1.S support and hybrid processors in desktop NAS units, the appeal of the RockChip-based AI NAS may depend heavily on its price to capabilities / performance aspect.</p> </p>]]>""",
+          "source" : "AnandTech",
+          "PubDate" : "2023-03-11T12:15:00Z",
+          "URL" : " https://www.anandtech.com/show/18693/the-amd-ryzen-9-7900-ryzen-7-7700-and-ryzen-5-5-7600-review-ryzen-7000-at-65-w-zen-4-efficiency "
+        }
+      }
+    ]
+  }
+}
